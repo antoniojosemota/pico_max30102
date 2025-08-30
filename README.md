@@ -45,7 +45,7 @@ Este projeto implementa um monitor de saturação de oxigênio no sangue (SpO2) 
     
 2. *Execute o CMake para gerar os arquivos de compilação:*
     
-    ![alt text](image.png)
+    ![alt text](image.jpeg)
     
     - Clicando em “Compile” ele compila o código para gerar o executável “.uf2”.
     - Antes de enviar dê BOOTSEL na placa.
